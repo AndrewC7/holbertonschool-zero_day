@@ -1,0 +1,1 @@
+In this prject I get familiar with emacs
